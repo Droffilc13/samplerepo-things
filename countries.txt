@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Britain
 Sri Lanka
-=======
-Singapore
-Sri Lanka
 Malaysia
->>>>>>> 8eee122cd001f34f9e1a1d70ee08ae526c5642b6
+
+
